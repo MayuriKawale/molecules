@@ -2,6 +2,7 @@
 #$ is the variable for shell script and the numbering is for the order u can enter variable names
 #added ability to set line numbers
 
+#to execute: bash middle.sh $1 $2 $3, where
 #$1 is filename
 #$2 first set of lines in file
 #$3 last set of lines in file
