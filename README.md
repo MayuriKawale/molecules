@@ -8,4 +8,4 @@ SWC lesson on Git and GitHub
 #Author:
 I am the graduate student in the Department of Physics and Astronomy at University of Oklahoma
 
-This is a new paragraph
+I work on High Energy Physics
